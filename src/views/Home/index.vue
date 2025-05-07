@@ -1,4 +1,4 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-  <div>home</div>
+  <!-- <div>home</div> -->
 </template>
