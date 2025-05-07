@@ -11,11 +11,6 @@
 
 </template>
 
-<style scoped lang="scss">
-.test{
-  color:$priceColor;
-}
-</style>
 <style scoped>
 header {
   line-height: 1.5;
